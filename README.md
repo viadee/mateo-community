@@ -1,5 +1,7 @@
 # 🎊 Willkommen in der mateo-Community!
 
+![mateo.png](mateo.png)
+
 Wir freuen uns, dass du Teil unserer Community werden möchtest. Hier kannst du dich mit Gleichgesinnten austauschen, Wissen teilen und gemeinsam die Welt der Automation mit mateo entdecken.
 
 ## Warum Teilnehmen?
