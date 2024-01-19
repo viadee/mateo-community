@@ -1,18 +1,20 @@
-# Selbstverständnis und Verhaltenskodex für die GitHub Discussions Community
+# Code of Conduct
 
-Willkommen in unserer GitHub Discussions Community! Wir freuen uns, dass du hier bist und Teil unserer Community sein möchtest. Um sicherzustellen, dass jeder eine positive Erfahrung macht und wir gemeinsam einen wertschätzenden Raum schaffen, haben wir diesen Verhaltenskodex erstellt. Bitte lies ihn aufmerksam durch und befolge diese Richtlinien, um sicherzustellen, dass unser Community-Forum für alle ein angenehmer Ort bleibt.
+Unser Selbstverständnis und Verhaltenskodex für die Communty
 
-## 1. Freundlichkeit und Respekt
+Willkommen in unserer mateo Community! Wir freuen uns, dass du hier bist und Teil unserer Community sein möchtest. Um sicherzustellen, dass jeder eine positive Erfahrung macht und wir gemeinsam einen wertschätzenden Raum schaffen, haben wir diesen Verhaltenskodex erstellt. Bitte lies ihn aufmerksam durch und befolge diese Richtlinien, um sicherzustellen, dass unser Community-Forum für alle ein angenehmer Ort bleibt.
+
+## 1. Keine falschen Fragen
+
+In dieser Community gibt es keine "falschen" Fragen. Jeder, unabhängig von seinem Kenntnisstand, ist willkommen, Fragen zu stellen. Wir alle lernen ständig dazu, und es ist wichtig, dass sich jeder hier wohl fühlt, seine Fragen zu teilen und von anderen zu lernen.
+
+## 2. Freundlichkeit und Respekt
 
 Wir ermutigen alle Mitglieder, respektvoll und freundlich miteinander umzugehen. Jeder Beitrag, jede Frage und jede Antwort sollte in einem positiven Ton verfasst werden. Kritik ist willkommen, solange sie konstruktiv und respektvoll ist. Beleidigungen, Diskriminierung, Belästigung oder jede andere Form von respektlosem Verhalten werden nicht toleriert.
 
-## 2. Unterstützung und Zusammenarbeit
+## 3. Unterstützung und Zusammenarbeit
 
 Unsere Community ist hier, um sich gegenseitig zu unterstützen. Wenn jemand eine Frage stellt, sei freundlich und hilfsbereit. Teile dein Wissen und deine Erfahrung, um anderen Mitgliedern zu helfen. Zusammenarbeit steht im Mittelpunkt unserer Community, also ermutige andere, Ideen auszutauschen und Lösungen gemeinsam zu finden.
-
-## 3. Keine falschen Fragen
-
-In dieser Community gibt es keine "falschen" Fragen. Jeder, unabhängig von seinem Kenntnisstand, ist willkommen, Fragen zu stellen. Wir alle lernen ständig dazu, und es ist wichtig, dass sich jeder hier wohl fühlt, seine Fragen zu teilen und von anderen zu lernen.
 
 ## 4. Vielfalt und Inklusion
 
