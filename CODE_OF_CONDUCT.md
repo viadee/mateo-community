@@ -4,7 +4,9 @@ Unser Selbstverständnis und Verhaltenskodex für die Communty
 
 Willkommen in unserer mateo Community! Wir freuen uns, dass du hier bist und Teil unserer Community sein möchtest. Um sicherzustellen, dass jeder eine positive Erfahrung macht und wir gemeinsam einen wertschätzenden Raum schaffen, haben wir diesen Verhaltenskodex erstellt. Bitte lies ihn aufmerksam durch und befolge diese Richtlinien, um sicherzustellen, dass unser Community-Forum für alle ein angenehmer Ort bleibt.
 
-## 1. Keine falschen Fragen
+Die mateo-Community ist eine offene Plattform, die allen Interessierten eine einfache und niedrigschwellige Möglichkeit geben soll, Gedanken und Ideen auszutauschen, Feedback an die Entwicklung zu geben und Fragen zu stellen, die in irgendeiner Form mit mateo zu tun haben.
+
+## 1. Es gibt keine falschen Fragen
 
 In dieser Community gibt es keine "falschen" Fragen. Jeder, unabhängig von seinem Kenntnisstand, ist willkommen, Fragen zu stellen. Wir alle lernen ständig dazu, und es ist wichtig, dass sich jeder hier wohl fühlt, seine Fragen zu teilen und von anderen zu lernen.
 
