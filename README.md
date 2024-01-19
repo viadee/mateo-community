@@ -14,9 +14,9 @@ Wir freuen uns, dass du Teil unserer Community werden möchtest. Hier kannst du 
 
 1. Besuche unsere [Website](https://www.github.com/community).
 
-2. Registriere ein Konto, wenn du noch keines hast.
+2. Registriere ein GitHub-Konto, wenn du noch keines hast.
 
-3. Trete der Community bei und sei ein Teil der Diskussionen!
+3. Trete der Community bei und sei ein Teil der Diskussionen auf https://github.com/viadee-internal/mateo-community/discussions
 
 ## Kann ich hier alles schreiben?
 
